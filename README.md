@@ -1,0 +1,4 @@
+LMCMasterChat
+=============
+
+Our chat plugin
